@@ -1,0 +1,19 @@
+body{
+    background-image: url("http://cdn4.thr.com/sites/default/files/imagecache/landscape_928x523/2015/03/the_office_season_1_cast.jpg");
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
+
+h1{
+    text-shadow: 3px 3px #FF7F50;
+}
+
+p{
+    text-transform: capitalize;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+a{
+    color: black;
+}

@@ -1,0 +1,26 @@
+body{
+    background-image: url("http://sunsetbayexperience.com/wp-content/uploads/2017/03/pexels-photo-108792.jpeg");
+    background-size: cover;
+}
+
+.extreme{
+    color: white;
+}
+
+#tehlulz:hover{
+    color: #f88379 ;
+}
+
+.content{
+    text-align: center;
+}
+
+.prose{
+    border: 3px solid #f88379;
+    background-color: rgba(121,238,248,.5);
+}
+
+a{
+    color: #c379f8;
+}
+    
